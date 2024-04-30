@@ -9,4 +9,5 @@ Nele foram feitos:
 - Metas alcançadas
 - Impostos
 - Lucro
-  A Análise rápida se a empresa está tendo lucro ou não. Também sabe quais cidades bateram a meta de 30% e as transações feitas por cada banco.
+
+A Análise rápida se a empresa está tendo lucro ou não. Também sabe quais cidades bateram a meta de 30% e as transações feitas por cada banco.
